@@ -24,4 +24,8 @@ node server.js
 
 ## API Endpoint
 
-http://localhost:3000/api/weather/mumbai
+http://localhost:3000/api/weather/{city}
+
+Example:
+
+http://localhost:3000/api/weather/pune
